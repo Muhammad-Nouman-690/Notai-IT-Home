@@ -1,0 +1,162 @@
+.searchIcon {
+    color: #fff;
+    
+}
+
+.formControl {
+    color: #fff;
+} 
+
+.headText {
+    font-family: Arial, Helvetica, sans-serif;
+    color: #575756;
+    font-size: 14px;
+}
+
+.headLink {
+    text-align: right;
+}
+
+.mainHeading {
+    color: #93191b;
+    font-weight: 600;
+  }
+  
+  .mainPara {
+    font-family: Arial, Helvetica, sans-serif;
+    color: #575756;
+    line-height: 20px;
+    font-size: 14px;
+    font-weight: 500;
+  }
+  
+  .paraBold {
+    font-weight: 700;
+  }
+
+  .mainPara a {
+    color: #115780 ;
+  }
+  
+  .mainSec {
+    border: 1px solid #d4d4d4;
+    padding: 15px 20px;
+    margin: 15px 15px;
+    line-height: 180%;
+    
+}
+
+
+  .newsBox {
+    border: 1px solid #d4d4d4; 
+    padding: 15px 20px;
+    margin: 15px 15px;
+  }
+
+  .newsBox a {
+    color: #93191b;
+  }
+
+  .separator {
+    border-top: 1px solid #d4d4d4;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    padding-top: 10px;
+  }
+  
+  .newsTable {
+    display: table;
+    width: 100%;
+  }
+  
+  .newsImg {
+    width: 150px;
+    float: left;
+    padding-top: 3px;
+    min-height: 120px;
+    box-sizing: border-box;
+  }
+  
+  .newsTitle {
+    color: #93191b;
+    font-weight: 700;
+    padding-left: 15px;
+  }
+  
+  .newsDate {
+    color: #575756;
+    padding-left: 15px;
+  }
+  
+  .newsPara {
+    font-family: Arial, Helvetica, sans-serif;
+    color: #575756;
+    line-height: 20px;
+    font-size: 14px;
+    font-weight: 500;
+    padding-left: 165px;
+  }
+  
+  .newsArticle {
+    color: #797978;
+    font-weight: 700;
+  }
+  
+  .label {
+    float: right;
+    padding: .2em .6em;
+    border-radius: .5em;
+    display: flex;
+    flex-direction: column;
+  }
+
+
+.secHeading {
+    color: #93191b;
+    font-weight: 700;
+    font-size: 19px;
+    font-family: inherit;
+}
+
+.mainSec a {
+    color: #797978;
+    font-weight: 700;
+}
+
+.mainSec span {
+    color: #575756;
+    font-size: 14px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.secNum {
+    background-color: #ebebeb;
+    float: right;
+    padding: .2em .6em;
+    border-radius: .5em;
+    line-height: 1;
+}
+
+.secBorder {
+    border-right: 1px solid #d4d4d4;
+    padding-right: 15px;
+}
+
+.secBorderOne {
+    padding-right: 15px;
+}
+
+.footerMain {
+    padding: 25px;
+    padding-left: 55px;
+    background-color: #575756;
+    color: #818180;
+    font-size: 14px;
+    display: block;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.footerMain a {
+    text-decoration: none;
+    color: #818180;
+}
